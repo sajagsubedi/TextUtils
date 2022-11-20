@@ -1,17 +1,9 @@
-## Running React on Repl.it
-
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Todo,s List
+TextUtils is a amazing react app that allows you to manipulate your text and copy it. It provides you features such as converting your text to uppercase or lowercase ,Removing extrapaces from your text and Capitalizing your text. It also shows the number of words and characters present in your text. It is developed by Sajag Subedi. This Web app is begginer friendly and easy to use.
 
 ### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+- Hit npm i
+- Hit npm run dev
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+### Viewing it 
+You can visit to [https://sajagsubedi.github.io/TextUtils/](https://sajagsubedi.github.io/TextUtils/) or [https://ourtextutils.netlify.app/](https://ourtextutils.netlify.app/) to view it live.
