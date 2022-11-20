@@ -1,4 +1,4 @@
-## Todo,s List
+## TextUtils
 TextUtils is a amazing react app that allows you to manipulate your text and copy it. It provides you features such as converting your text to uppercase or lowercase ,Removing extrapaces from your text and Capitalizing your text. It also shows the number of words and characters present in your text. It is developed by Sajag Subedi. This Web app is begginer friendly and easy to use.
 
 ### Getting Started
