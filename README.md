@@ -6,4 +6,4 @@ TextUtils is a amazing react app that allows you to manipulate your text and cop
 - ###  `Hit npm run dev`
 
 ### Viewing it 
-You can visit to [https://sajagsubedi.github.io/TextUtils/](https://sajagsubedi.github.io/TextUtils/) or [https://ourtextutils.netlify.app/](https://ourtextutils.netlify.app/) to view it live.
+You can visit to [https://ourtextutils.netlify.app/](https://ourtextutils.netlify.app/) to view it live.
